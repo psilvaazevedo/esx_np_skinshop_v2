@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=Yijf-5blIXU
     -   (esx_datastore)[https://github.com/esx-framework/esx_datastore]
     -   (esx_property)[https://github.com/esx-framework/esx_property]
     
-2. **Download and Installation**
+2. **Download and Installation**  
    2.1 **Download**  
           2.1.1 **Using Git**  
             cd resources  
